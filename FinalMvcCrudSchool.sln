@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalMvcCrudSchool", "FinalMvcCrudSchool\FinalMvcCrudSchool.csproj", "{D4CA05A7-0BB0-43B2-AB2B-611CF7425DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prolib", "prolib\prolib.csproj", "{FC0E05AB-CAC0-45F7-9EF2-33B42AFDC838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4CA05A7-0BB0-43B2-AB2B-611CF7425DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4CA05A7-0BB0-43B2-AB2B-611CF7425DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4CA05A7-0BB0-43B2-AB2B-611CF7425DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4CA05A7-0BB0-43B2-AB2B-611CF7425DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0E05AB-CAC0-45F7-9EF2-33B42AFDC838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0E05AB-CAC0-45F7-9EF2-33B42AFDC838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0E05AB-CAC0-45F7-9EF2-33B42AFDC838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0E05AB-CAC0-45F7-9EF2-33B42AFDC838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D4F916-134D-485A-872F-1E53E8DB74F3}
+	EndGlobalSection
+EndGlobal
